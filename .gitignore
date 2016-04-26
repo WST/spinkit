@@ -1,3 +1,4 @@
 vendor
 propel.xml
 composer.lock
+config.php
